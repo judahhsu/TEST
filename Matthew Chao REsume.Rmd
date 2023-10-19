@@ -1,0 +1,12 @@
+---
+title: "Example Resume"
+author: "Judah Hsu"
+date: "2023-10-19"
+output: html_document
+---
+
+### Matthew Chao
+
+**Statistics Major**\
+*5109203847*\
+*UC Davis Freshman (expected graduation date June 2027)*
